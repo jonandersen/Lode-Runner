@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="32" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="Jons_Tiles" tilewidth="8" tileheight="8">
+  <image source="../../../Jonathan/Sprites_Och_Tiles/Jons_Tiles.bmp" width="144" height="88"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJw7xsDAcGwUj+JRPOTxeiDeAMSSeLAUEEsDsQwQy1LZ/oNAfGgA/T8Y7WclgEftH97xP2r/qP1DxX5Y/SHBgFlXIPNh6pDl0dnk1C3Euh9mP7XDj1hzaWU/Lf2PLU7R42g4+3+kxz8uTE6bkFb+p3Y80QpTs5xvAOJGIG4C4mYs/BYCaoiVa8BhNgAC6+DC
+  </data>
+ </layer>
+</map>
